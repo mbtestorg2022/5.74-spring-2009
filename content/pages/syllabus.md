@@ -25,10 +25,39 @@ Grading
 
 There will be 4 problem sets worth a total of 75% of the grade, which can and should be worked on together. A take-home exam will account for the remaining 25% of the grade. It will be distributed during the last lecture, and should not be discussed with your classmates.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Four problem sets | 75% |
-| One take-home exam | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Four problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+75%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+One take-home exam
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Mathematical Software
 ---------------------
@@ -47,24 +76,250 @@ This is an important book to have. It has the most overlap with the topics we wi
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Quantum mechanics**{{< /td-colspan >}} |||
-| 1 | Time-independent Hamiltonian | &nbsp; |
-| 2 | Time-dependent Hamiltonian | &nbsp; |
-| 3 | Irreversible relaxation | &nbsp; |
-| 4 |  {{< br >}}{{< br >}} Classical description of spectroscopy {{< br >}}{{< br >}} Interaction of light and matter {{< br >}}{{< br >}} Absorption cross-section {{< br >}}{{< br >}}  | &nbsp; |
-| 5 | Time correlation functions | Assignment 1 due |
-| 6 | Absorption lineshapes | &nbsp; |
-| 7 | Linear response theory | &nbsp; |
-| 8 | Displaced harmonic oscillator | Assignment 2 due |
-| 9 | Fluctuations: Gaussian stochastic model | Assignment 3 due |
-| 10 | Fluctuations: energy gap Hamiltonian | &nbsp; |
-| 11 | Vibrational relaxation | &nbsp; |
-| 12 | Density matrix | Assignment 4 due |
-| {{< td-colspan 3 >}}**Nonlinear spectroscopy boot camp**{{< /td-colspan >}} |||
-| 13 | Nonlinear polarization | Assignment 5 due |
-| 14 | Diagrammatic perturbation theory | &nbsp; |
-| 15 | Third order spectroscopy | &nbsp; |
-| 16 | Characterizing fluctuations | &nbsp; |
-| 17 | Two-dimensional spectroscopy |  {{< br >}}{{< br >}} Nonlinear spectroscopy  {{< br >}}problems due {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Quantum mechanics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Time-independent Hamiltonian
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Time-dependent Hamiltonian
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Irreversible relaxation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Classical description of spectroscopy
+
+Interaction of light and matter
+
+Absorption cross-section
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Time correlation functions
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Absorption lineshapes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Linear response theory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Displaced harmonic oscillator
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Fluctuations: Gaussian stochastic model
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Fluctuations: energy gap Hamiltonian
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Vibrational relaxation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Density matrix
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Nonlinear spectroscopy boot camp**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Nonlinear polarization
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Diagrammatic perturbation theory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Third order spectroscopy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Characterizing fluctuations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Two-dimensional spectroscopy
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Nonlinear spectroscopy  
+problems due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

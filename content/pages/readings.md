@@ -61,17 +61,173 @@ Useful for correlation function description of spectroscopy.
 {{< anchor "Suggested_Readings" >}}{{< /anchor >}}Suggested Readings
 --------------------------------------------------------------------
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Time-independent Hamiltonian | \[Nitzen\] Chapter 2 |
-| 2 | Time-dependent Hamiltonian | &nbsp; |
-| 3 | Irreversible relaxation | \[Nitzen\] Chapter 9 |
-| 4 |  {{< br >}}{{< br >}} Classical description of spectroscopy {{< br >}}{{< br >}} Interaction of light and matter {{< br >}}{{< br >}} Absorption cross-section {{< br >}}{{< br >}}  | \[Schatz\] Chapter 5; \[Nitzen\] Chapter 3; \[McHale\]; \[Merzbacher\]; \[Sakurai\] |
-| 5 | Time correlation functions | \[Nitzen\] Chapter 6; \[McHale\]; \[McQuarrie\] Chapter 21; \[Berne\]; \[Zwanzig\]; \[Gordon\]; \[Wang\]; \[Blum\] |
-| 6 | Absorption lineshapes | \[Schatz\] Chapter 10; \[Nitzen\] Section 12.5 |
-| 7 | Linear response theory | &nbsp; |
-| 8 | Displaced harmonic oscillator | &nbsp; |
-| 9 | Fluctuations: Gaussian stochastic model | \[Nitzen\] Chapters 7 and 12; \[Mukamel\]; \[Blum\] |
-| 10 | Fluctuations: energy gap Hamiltonian | &nbsp; |
-| 11 | Vibrational relaxation | \[Nitzen\] Chapters 9 and 13 |
-| 12 | Density matrix | \[Slichter\]
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Time-independent Hamiltonian
+{{< tdclose >}}
+{{< tdopen >}}
+\[Nitzen\] Chapter 2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Time-dependent Hamiltonian
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Irreversible relaxation
+{{< tdclose >}}
+{{< tdopen >}}
+\[Nitzen\] Chapter 9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Classical description of spectroscopy
+
+Interaction of light and matter
+
+Absorption cross-section
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+\[Schatz\] Chapter 5; \[Nitzen\] Chapter 3; \[McHale\]; \[Merzbacher\]; \[Sakurai\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Time correlation functions
+{{< tdclose >}}
+{{< tdopen >}}
+\[Nitzen\] Chapter 6; \[McHale\]; \[McQuarrie\] Chapter 21; \[Berne\]; \[Zwanzig\]; \[Gordon\]; \[Wang\]; \[Blum\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Absorption lineshapes
+{{< tdclose >}}
+{{< tdopen >}}
+\[Schatz\] Chapter 10; \[Nitzen\] Section 12.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Linear response theory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Displaced harmonic oscillator
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Fluctuations: Gaussian stochastic model
+{{< tdclose >}}
+{{< tdopen >}}
+\[Nitzen\] Chapters 7 and 12; \[Mukamel\]; \[Blum\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Fluctuations: energy gap Hamiltonian
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Vibrational relaxation
+{{< tdclose >}}
+{{< tdopen >}}
+\[Nitzen\] Chapters 9 and 13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Density matrix
+{{< tdclose >}}
+{{< tdopen >}}
+\[Slichter\]
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
