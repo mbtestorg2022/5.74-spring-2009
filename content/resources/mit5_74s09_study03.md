@@ -4,6 +4,7 @@ description: Study guide on absorption lineshape for the displaced harmonic osci
   model.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/5-74-introductory-quantum-mechanics-ii-spring-2009/ad9c39231ddaad81ca3c90cb3016a2a6_MIT5_74s09_study03.pdf
 file_type: application/pdf
+parent_uid: cd4e7136-47d4-809e-402c-c08e932758aa
 resourcetype: Document
 title: Absorption Lineshape for the Displaced Harmonic Oscillator Model
 uid: ad9c3923-1dda-ad81-ca3c-90cb3016a2a6
